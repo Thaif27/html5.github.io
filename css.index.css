@@ -1,0 +1,145 @@
+header{
+ text-decoration: antiquewhite;
+  flex-wrap: wrap;
+   justify-content: space-between;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 20px;
+}
+div{
+    text-decoration: none;
+    text-align: center;
+    margin-top: 5px;
+    display: block;
+    font-size: 20px;
+
+    
+}
+
+h1{
+  color: #638553;
+	text-align: center;
+  align-items: center;
+	margin: 20px 0 0 0;
+	font-size: 2em;
+	font-weight: bold;
+  padding: 1em 2em;
+}
+
+  h3{
+    color:#638553; 
+    border-bottom: 1px 
+    solid #638553; 
+    margin-top: 0px; 
+    margin-bottom: 10px; 
+    font-family: Lato
+  }
+  h4{
+    color: #638553; 
+    border-bottom: 1px solid #638553; 
+    margin-top: 0px; 
+    margin-bottom: 10px; 
+    font-family: Lato"
+  }
+    
+  h4,h3,figcaption{
+
+text-align: center;
+  }
+
+  p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding: 0 300px 0 240px;
+    font-family: 'Source Serif Pro', serif;
+    line-height: 35px;
+    color: #253A44;
+    font-size: 18px;
+  }
+  html{
+    background-color:ghostwhite;
+  }
+  h3{
+    font-size: 25px;
+  
+  }
+  text{
+
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    padding: 1em 2em;
+    line-height: 2em;
+  }
+  div{
+  text-decoration:none;
+  
+  
+  }
+.flex-container{
+ text-align: center;
+ column-count: 3;
+}
+
+.httml{
+
+  display: flex;
+  justify-content: center; 
+  font-size: 20px;
+  padding:2em 3em ;
+  line-height: 2em;
+}
+.hd{
+  display: flex;
+  justify-content: center; 
+  font-size: 20px;
+  padding:2em 3em ;
+  line-height: 2em;
+}
+
+strong{
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  padding: 1em 2em;
+  line-height: 2em;
+
+}
+img{
+
+  display: flex;
+  flex-wrap: center;
+  max-width: 800px;
+  max-height: 800px;
+    margin: 0 auto;
+}
+em{
+
+font-family:monospace;
+padding: 0.3em;
+background-color: #638553;
+color:#ffffff;
+border-radius: 4px;
+font-style: normal;
+}
+a{
+text-decoration: none;
+color: black;
+}
+footer{
+Color:#638553;
+font-family:'Courier New', Courier, monospace;
+font-style: bold;
+
+}
+
+
